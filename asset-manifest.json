@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c6a6e473.css",
-    "main.js": "/static/js/main.beba219b.js",
+    "main.js": "/static/js/main.8897a78c.js",
     "static/media/oxp-ch2.mp4": "/static/media/oxp-ch2.62ebc8d908d204d3d158.mp4",
     "static/media/fa-duotone-900.svg": "/static/media/fa-duotone-900.bac7a949fdfa983ff8a5.svg",
     "static/media/fa-light-300.svg": "/static/media/fa-light-300.676ceddb711397cb345f.svg",
@@ -40,12 +40,12 @@
     "static/media/bg-slider-3.jpg": "/static/media/bg-slider-3.9fb2b3ecc4f4647babbf.jpg",
     "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.7142440b571a91349e60.woff",
     "static/media/work-1.svg": "/static/media/work-1.efaa30a66b605a6b57e45a8a7db2a304.svg",
+    "static/media/Pump-logo.png": "/static/media/Pump-logo.e1df56fb13784383254e.png",
     "static/media/work-4.svg": "/static/media/work-4.54a3cb640f9a454586f05ff4791b49dd.svg",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.0ffa8f97ca92f387e47f.woff2",
     "static/media/binasea.svg": "/static/media/binasea.7dd26abf0c7fc458e690.svg",
     "static/media/team-details.jpg": "/static/media/team-details.84268dd393c365595160.jpg",
     "static/media/slider-6.png": "/static/media/slider-6.c7e01859dee53142f168.png",
-    "static/media/four-logo.png": "/static/media/four-logo.d880bc4fb948ed9fd23c.png",
     "static/media/rm-4.jpg": "/static/media/rm-4.8394f7173f75691a789e.jpg",
     "static/media/blog-details-2.jpg": "/static/media/blog-details-2.564dc03e4a309d029494.jpg",
     "static/media/blog-details-3.jpg": "/static/media/blog-details-3.ff63ca46057aa43d021a.jpg",
@@ -75,10 +75,10 @@
     "static/media/phone.svg": "/static/media/phone.fd195e2ed0459b982b9bb2733eec27cc.svg",
     "static/media/loaction.svg": "/static/media/loaction.72c9c23df38a0aee1aa9627b7c7efce2.svg",
     "main.c6a6e473.css.map": "/static/css/main.c6a6e473.css.map",
-    "main.beba219b.js.map": "/static/js/main.beba219b.js.map"
+    "main.8897a78c.js.map": "/static/js/main.8897a78c.js.map"
   },
   "entrypoints": [
     "static/css/main.c6a6e473.css",
-    "static/js/main.beba219b.js"
+    "static/js/main.8897a78c.js"
   ]
 }
